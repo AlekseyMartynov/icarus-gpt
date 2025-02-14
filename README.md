@@ -11,4 +11,5 @@
 
 ---
 
+- [Полный текст - разбор концовки [Claude 3.5 Sonnet]](part1+2+3-ending-claude.md)
 - [Полный текст - разбор концовки [DeepSeek-R1]](part1+2+3-ending.md)
